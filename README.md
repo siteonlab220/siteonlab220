@@ -1,10 +1,16 @@
-# SiteOnLab
+# SiteOnLab 
 
 ### AI-Powered Digital Marketing & Web Development
 
 SiteOnLab is a digital marketing and web development company that helps businesses strengthen their online presence through practical strategies and modern technology. We combine SEO, web development, AI-powered solutions, and digital marketing to create experiences that support long-term business growth.
 
-Website: https://siteonlab.com
+<h2>Website: https://siteonlab.com </h2> 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEO-Expert-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Development-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Digital-Marketing-purple?style=for-the-badge" />
+</p>
 
 ---
 
